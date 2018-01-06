@@ -3,7 +3,7 @@
   <h1 style="text-align:center">Welcome to my web!</h1>
   <h4 style="text-align:right">17-计科518 余阳</h4>
 
-  <a href="file:///home/always/Desktop/%E6%88%91%E7%9A%84%E4%B8%93%E4%B8%9A%E5%BF%97%E8%B6%A3.htm">a.我的专业志趣网页</a>
+  <a href="https://y85959948.github.io/my-major/.">a.我的专业志趣网页</a>
   <hr />
   <a href="计机518-余阳-专业论文排版.pdf"target="_blank">b.专业排版项目的最终PDF文件下载</a>      
   <hr />
