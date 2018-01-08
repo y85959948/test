@@ -5,11 +5,11 @@
 
   <a href="https://y85959948.github.io/my-major/.">a.我的专业志趣网页</a>
   <hr />
-  <a href="计机518-余阳-专业论文排版.pdf"target="_blank">b.专业排版项目的最终PDF文件下载</a>      
+  <a href="计机518-余阳-专业论文排版.pdf">b.专业排版项目的最终PDF文件下载</a>      
   <hr />
-  <a href="计机518-余阳-Excel 数据处理实验.xls"target="_blank">c.数据处理项目的Excel文件下载</a>
+  <a href="计机518-余阳-Excel 数据处理实验.xls">c.数据处理项目的Excel文件下载</a>
   <hr />
-  <a href="计机518-余阳-我的家乡.pptx"target="_blank">d.我的家乡项目的PPT文件下载</a>
+  <a href="计机518-余阳-我的家乡.pptx">d.我的家乡项目的PPT文件下载</a>
   <hr />
   <a href="https://y85959948.github.io/my-hometown/.">e.我的家乡项目的网页版</a>
   <hr />
